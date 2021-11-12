@@ -1,0 +1,16 @@
+.banner{
+     
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+    
+}
+
+.intro{
+    margin-top: 100px;
+    color: black;
+}
+
+.span {
+    color: red;
+}

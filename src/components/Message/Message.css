@@ -1,0 +1,19 @@
+input{
+    height: 35px;
+    width: 300px;
+    border: 1px solid red;
+    border-radius: 20px;
+    text-indent: 10px;
+}
+
+textarea{
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+    text-indent: 10px;
+    border: 1px solid red;
+}
+
+.back {
+    background-color: rgba(188, 143, 143, 0.384);
+}
